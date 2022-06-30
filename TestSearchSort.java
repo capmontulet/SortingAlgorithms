@@ -1,18 +1,4 @@
 /**
- * CET - CS Academic Level 3
- * Declaration: I declare that this is my own original work and is free from Plagiarism
- * This class contains the dynamically allocated array and it's processing
- * Student Name: Thomas Stanley
- * Student Number: 41037136  
- * Section #: 301
- * Course: CST8130 - Data Structures
- * Professor: James Mwangi PhD. 
- * 
- */
-
-
-
-/**
  * Class that holds main, has a method to print a menu, so that main is cleaner to look at.
  * @author Thomas Stanley
  *
