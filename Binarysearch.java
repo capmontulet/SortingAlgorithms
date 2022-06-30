@@ -3,18 +3,6 @@ import java.util.Scanner;
 import java.util.Arrays;
 
 /**
- * CET - CS Academic Level 3
- * Declaration: I declare that this is my own original work and is free from Plagiarism
- * This class contains the dynamically allocated array and it's processing
- * Student Name: Thomas Stanley
- * Student Number: 41037136  
- * Section #: 301
- * Course: CST8130 - Data Structures
- * Professor: James Mwangi PhD. 
- * 
- */
-
-/**
  * This class contains methods that conducts two different types of binary searches, both recursive and non-recursive.
  * It also contains methods to time these operations and to create a random array of ints in order to search them.
  * @author Thomas Stanley
