@@ -1,18 +1,6 @@
 import java.util.Scanner;
 
 /**
- * CET - CS Academic Level 3
- * Declaration: I declare that this is my own original work and is free from Plagiarism. The methods MergeSort and mergeSorter were largely copied/inspired from https://www.baeldung.com/java-merge-sort
- * This class contains the dynamically allocated array and it's processing
- * Student Name: Thomas Stanley
- * Student Number: 41037136  
- * Section #: 301
- * Course: CST8130 - Data Structures
- * Professor: James Mwangi PhD. 
- * 
- */
-
-/**
  * Contains methods for various techniques of array sorting.
  * @author Thomas Stanley
  *
